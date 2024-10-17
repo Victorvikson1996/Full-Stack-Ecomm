@@ -4,4 +4,4 @@ CREATE TABLE IF NOT EXISTS "products" (
 	"description" text,
 	"image" varchar(255),
 	"price" double precision NOT NULL
-);
+);  
